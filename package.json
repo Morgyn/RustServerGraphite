@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+	"@fabricio-191/valve-server-query": "^4.1.9"
+  },
+  "name": "rustservergraphite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
